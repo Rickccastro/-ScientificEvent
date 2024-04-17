@@ -1,1 +1,1 @@
-#Scientific Event
+#ScientificEvent
